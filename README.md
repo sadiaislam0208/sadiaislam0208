@@ -25,7 +25,7 @@ I'm a Computer Science student at **Trent University** with a passion for buildi
 When I'm not coding, I'm tutoring fellow students, representing off-campus students on college cabinet, or facilitating digital literacy workshops for communities.
 
 - 🎓 **BSc Computer Science**, Trent University *(Jan 2025 – Present)*
-- 📊 GPA highlight: Perfect scores in **Data Science (100)**, **Probability (99)**, **Data Mining (100)**, **Big Data (95)**
+- 📊 **GPA: 3.97 / 4.0** — with perfect scores in **Data Science (100)**, **Probability (99)**, **Data Mining (100)**, **Big Data (95)**
 - 🏫 **COIS 1020 Student Marker** & **Math Tutor** — helping peers understand complex material
 - 🌍 Former **Youth Ambassador**, Bangladesh Internet Governance Forum
 
@@ -131,6 +131,7 @@ Soft Skills     Teaching  ·  Public Speaking  ·  Event Coordination  ·  Leade
 | Role | Organization | Period |
 |---|---|---|
 | Off-Campus Representative | Otonabee College Cabinet, Trent University | Sep 2025 – Present |
+| First Year Representative & Organizer | Hack Trent 2025 | 2025 |
 | Student Marker — COIS 1020 | Trent University | Jan – Apr 2026 |
 | Math Tutor | Trent University | Jan – Apr 2026 |
 | Youth Ambassador | Bangladesh Internet Governance Forum | Oct 2023 – Dec 2024 |
@@ -138,6 +139,8 @@ Soft Skills     Teaching  ·  Public Speaking  ·  Event Coordination  ·  Leade
 | General Member | Trent Active Minds | Jan – Apr 2025 |
 | Participant | Collegiate Leadership Competition | Jan – Mar 2025 |
 | Volunteer | All College Colors Dance Carnaval | Sep 2025 |
+
+**Hack Trent 2025** — Served as First Year Representative and helped organize Trent University's hackathon, bridging the gap between new students and the broader CS community while contributing to event planning and logistics.
 
 **Bangladesh Internet Governance Forum** — Led workshops on online safety, created educational content using Canva, and collaborated with educators and business owners to promote digital literacy across diverse communities.
 
